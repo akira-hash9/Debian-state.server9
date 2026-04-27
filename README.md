@@ -1,4 +1,4 @@
-# Debian-state.server9
+# Debian-state.server
 
 Repositório pessoal com comandos, scripts e anotações para administração de servidores.
 
